@@ -3,7 +3,7 @@ Small full stack email webapp
 
 - Utilizes a React frontend with design based on Google's Material-UI library
 
-- node.js and express backend implementing an API specified by openAPI
+- node.js and express backend implementing an API set via openAPI
 
 - Serving a database of emails implemented through a postgreSQL server running off docker
 
