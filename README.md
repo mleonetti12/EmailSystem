@@ -1,7 +1,7 @@
 # EmailSystem
 Small full stack email webapp
 
-- Utilizes a React frontend with support from Google's Material-UI library
+- Utilizes a React frontend with design based on Google's Material-UI library
 
 - node.js and express backend implementing an API specified by openAPI
 
